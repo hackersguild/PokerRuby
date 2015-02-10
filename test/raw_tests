@@ -1,0 +1,8 @@
+Raw Tests
+black: ['9C', 'KD'],  white: ['8C', 'AH'], table: ['4D', '2D', '6C', '3H', 'JH']
+black: ['9C', 'AD'],  white: ['8C', 'QH'], table: ['4D', '2D', '6C', '3H', 'JH']
+black: ['2D', 'AH'],  white: ['QS', '3S'], table: ['4D', 'KD', '6C', '3H', 'JH']
+black: ['KC', 'KH'],  white: ['AH', 'AC'], table: ['4D', 'KD', '2D', '3H', 'JH']
+black: ['9D', 'KD'],  white: ['AH', 'AC'], table: ['4D', 'KD', 'AD', '3H', 'JH']
+
+
